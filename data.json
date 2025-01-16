@@ -1,12 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Sample 1",
-    "description": "This is the first sample."
+    "title": "구기동 장모님 해장국",
+    "description": "This is the first sample.",
+    "url": "https://youtu.be/0ofsLj-W9nw"
   },
   {
     "id": 2,
-    "title": "Sample 2",
-    "description": "This is the second sample."
+    "title": "중랑역 한국횟집(with.임지연)",
+    "description": "This is the second sample.",
+    "url": "https://youtu.be/z9j5-nG8VoU"
   }
 ]
